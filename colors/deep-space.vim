@@ -22,7 +22,7 @@ endif
 
 let s:gray0     = ['#1b202a', 234]
 let s:gray1     = ['#232936', 235]
-let s:gray2     = ['#323c4d', 237]
+let s:gray2     = ['#424f65', 237]
 let s:gray3     = ['#51617d', 243]
 let s:gray4     = ['#9aa7bd', 248]
 let s:red       = ['#b15e7c', 132]
